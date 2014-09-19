@@ -15,3 +15,7 @@ Not applicable
 
 <h2>Outside code</h2>
 Not applicable
+
+<h2>Validations</h2>
+http://validator.w3.org/check?uri=http%3A%2F%2Fp1.extrovertedcoders.com%2F
+http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fp1.extrovertedcoders.com%2F&profile=css3&usermedium=all&warning=1&vextwarning=
